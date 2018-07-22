@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/hiro/Documents/Development/Vagrant/MachineLearning","disabled":false,"__vagrantfile":true},"vagrant-notify":{"id":"vagrant-notify","guestpath":"/tmp/vagrant-notify","hostpath":"/private/tmp/vagrant-notify/62d03b8fde5440b2a2109ef285188193","disabled":false,"__vagrantfile":true}}}
